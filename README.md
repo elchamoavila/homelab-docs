@@ -12,6 +12,7 @@ My goal is to learn any skills required for systems administration, as well as t
 | Hypervisor   | Proxmox VE           |
 | Hardware     | (your machine here)  |
 
+
 ##Journal
 
 ### Proxmox
