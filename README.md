@@ -29,4 +29,4 @@ My goal is to learn any skills required for systems administration, as well as t
 
 | Date      | What Changed |
 |-----------|--------------|
-| 2026-3-23 | Repo created test test test test |
+| 2026-3-23 | Repo created |
