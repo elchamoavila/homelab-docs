@@ -15,7 +15,7 @@ My goal is to learn any skills required for systems administration, as well as t
 ##Journal
 
 ### Proxmox
-- Installation
+- [Installation](.proxmox/01-installation.md)
 
 ---
 
