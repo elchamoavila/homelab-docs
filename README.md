@@ -10,12 +10,13 @@ My goal is to learn any skills required for systems administration, as well as t
 | Component    | Details              |
 |--------------|----------------------|
 | Hypervisor   | Proxmox VE           |
-| Hardware     | (your machine here)  |
+| Hardware     | Dell OptiPlex 3050 UFF  |
 
 ## Journal
 
 ### Proxmox
 - [Installation](./proxmox/01-installation.md)
+- [Post-Install Config](./proxmox/02-post-install-config.md)
 
 ---
 
