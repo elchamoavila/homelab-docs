@@ -27,6 +27,6 @@ My goal is to learn any skills required for systems administration, as well as t
 
 ## Change log
 
-| Date      | What Changed
-|-----------|
-| 2026-3-23 | Repo created
+| Date      | What Changed |
+|-----------|              |
+| 2026-3-23 | Repo created |
