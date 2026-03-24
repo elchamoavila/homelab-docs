@@ -45,6 +45,6 @@ Learned advatages of setting the router as the DNS, in case I want the router to
 
 
 ## References
-https://wiki.archlinux.org/title/USB_flash_installation_medium
-https://www.youtube.com/watch?v=lFzWDJcRsqo
+- https://wiki.archlinux.org/title/USB_flash_installation_medium
+- https://www.youtube.com/watch?v=lFzWDJcRsqo
 
