@@ -2,7 +2,7 @@
 
 ## Intro
 
-Hello! My name is Alejandro Chavez, and this the documentation of my journey with my homelab.
+Hello! My name is Alejandro Chavez, and this is my journey with my homelab.
 My goal is to learn as many skills as possible that would get me closer to becoming systems administrator.
 
 ## Environment
