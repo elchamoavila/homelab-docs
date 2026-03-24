@@ -22,7 +22,7 @@ My goal is to learn any skills required for systems administration, as well as t
 
 ## Roadmap
 
-- [ ] Set up Proxmox
+- [x] Set up Proxmox
 - [ ] Set up Ubuntu server
 - [ ] Set up Windows Server
 - [ ] Set up Windows Client
