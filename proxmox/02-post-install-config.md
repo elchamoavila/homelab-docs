@@ -33,7 +33,7 @@ I'm not going to do this right now, because I have no NAS currently and I want t
 Having a NAS would be super helpful. I plan on investing in a reburshied Dell Tower machine and install OpenMediaVault and set it up with RAID 1. I can have proxmox send all the back ups there, and I can store the isos there as well. I'll also have backups of my laptop there, and perhaps also a database for gitea to have another storage place for my github repositories.
 
 ## Next Steps
-Now that proxmox is set up, [I will spin up an Ubuntu Server VM](./03-ubuntu-server-vm-setup).
+Now that proxmox is set up, [I will create an Ubuntu Server VM](./03-ubuntu-server-vm-install.md).
 
 ## References
 - https://www.youtube.com/watch?v=lFzWDJcRsqo

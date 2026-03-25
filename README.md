@@ -3,7 +3,7 @@
 ## Intro
 
 Hello! My name is Alejandro Chavez, and this is my journey with my homelab.
-My goal is to learn as many skills as possible that would get me closer to becoming systems administrator.
+My goal is to learn as many skills as possible that will get me closer to becoming systems administrator.
 
 ## Environment
 
@@ -32,4 +32,5 @@ My goal is to learn as many skills as possible that would get me closer to becom
 
 | Date      | What Changed |
 |-----------|--------------|
-| 2026-3-23 | Repo created, installed and configured proxmox |
+| 2026-3-23 | Repo created, installed and configured Proxmox |
+| 2026-3-24 | Created new VM and installed Ubuntu Server |
