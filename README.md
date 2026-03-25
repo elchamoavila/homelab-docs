@@ -17,7 +17,7 @@ My goal is to learn as many skills as possible that will get me closer to becomi
 ### Proxmox
 - [Installation](./proxmox/01-installation.md)
 - [Post-Install Config](./proxmox/02-post-install-config.md)
-
+- [Ubuntu Server VM Install](./proxmox/03-ubuntu-server-vm-install.md)
 ---
 
 ## Roadmap
