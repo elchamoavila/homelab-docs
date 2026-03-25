@@ -15,25 +15,25 @@ The goal in the future is have that ISO live in a NAS instead of on the same dri
 
 ### 2. Create VM
 
-On Proxmox, click on Create VM.
+- On Proxmox, click on Create VM.
 
-In the General Tab, I set the following; Node: pve, VM ID: 102, Name: vm-ubuntu-serve
+- In the General Tab, I set the following; Node: pve, VM ID: 102, Name: vm-ubuntu-serve
 
-I set the VM ID to 102 to match the IP address I want to give this VM; 192.168.1.2.
+- I set the VM ID to 102 to match the IP address I want to give this VM; 192.168.1.2.
 
-In the OS tab, I set the following: Storate:Local, and ISO image: the ubuntu server iso I just downloaded.
+- In the OS tab, I set the following: Storate:Local, and ISO image: the ubuntu server iso I just downloaded.
 
-In the System tab, I changed nothing.
+- In the System tab, I changed nothing.
 
-In the Disks tab, I set Disk size to 32GiB.
+- In the Disks tab, I set Disk size to 32GiB.
 
-In the CPU tab, I set Cores to 2.
+- In the CPU tab, I set Cores to 2.
 
-In the Memory tab, I allocated 3072 MiB to this VM.
+- In the Memory tab, I allocated 3072 MiB to this VM.
 
-In the Network tab, I set the bridge to vmbr0.
+- In the Network tab, I set the bridge to vmbr0.
 
-In the Confirm tab, I reviewed the settings, and clicked on Finish.
+- In the Confirm tab, I reviewed the settings, and clicked on Finish.
 
 ### 3. Install Ubuntu Server
 
