@@ -4,7 +4,7 @@
 The objective is to successfully set up the VM on Proxmox for an Ubuntu Server. This document will only cover setting up and starting the VM on Proxmox. Installation and configuration of the Ubuntu Server will be on another document, and linked to at the bottom of this document.
 
 ## Prerequisites
-- download ubuntu-24.04.4-live-server-amd64.iso from https://ubuntu.com/download/server
+- Download ubuntu-24.04.4-live-server-amd64.iso from https://ubuntu.com/download/server
 
 ## Steps
 
