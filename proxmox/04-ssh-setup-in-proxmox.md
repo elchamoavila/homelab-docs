@@ -160,3 +160,11 @@ Last login: Fri Apr  3 16:22:12 2026 from 192.168.1.91
 root@pve:~#
 ```
 Success! This is actually the first time i've ever set up an ssh config file. Why haven't I done this in the past? Nice.
+
+## Gotchas/ Lessons Learned
+
+As just mentioned I didn't know that ``apt install`` automatically enables and starts services. Is that default on Debian and Ubuntu? I think when I was on Arch, you had to enable services manually after installing.
+
+I'm also really happy about this ssh config file. I kind of feel dumb for not knowing about that!
+
+I'll have to do this all again for the Debian VM, so it's nice to get some practice in this. I'll be sure to make that documentation more concise, unless something unexpected comes up.
