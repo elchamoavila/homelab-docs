@@ -19,12 +19,14 @@ My goal is to learn as many skills as possible that will get me closer to becomi
 - [Post-Install Config](./proxmox/02-post-install-config.md)
 - [Ubuntu Server VM Install](./proxmox/03-ubuntu-server-vm-install.md)
 - [SSH setup for Proxmox](./proxmox/04-ssh-setup-in-proxmox.md)
+### Ubuntu Server VM
+- [Post-install Config and Setup](./ubuntu-server/01-ubuntu-vm-setup.md)
 ---
 
 ## Roadmap
 
 - [x] Set up Proxmox
-- [ ] Set up Ubuntu server
+- [x] Set up Ubuntu server
 - [ ] Set up Windows Server
 - [ ] Set up Windows Client
 ---
