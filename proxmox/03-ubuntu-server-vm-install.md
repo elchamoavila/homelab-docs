@@ -61,8 +61,8 @@ The machine only has 16 GB of RAM, so for RAM allocation I'm considering the fol
 Thankfully, I can adjust this after I set up the VMs.
 
 ## Next Steps
-Ubuntu Post-Install Config
-[Proxmox SSH setup](./04-ssh-setup-in-proxmox.md)
+- [Ubuntu Post-Install Config](../ubuntu-server/01-ubuntu-vm-setup.md)
+- [Proxmox SSH setup](./04-ssh-setup-in-proxmox.md)
 
 ## References
 - https://www.youtube.com/watch?v=lFzWDJcRsqo
