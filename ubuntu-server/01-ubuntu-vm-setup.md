@@ -131,6 +131,12 @@ Host ubuntu-vm
   user alejandro
   IdentityFile ~/.ssh/id_ed25519
 ```
+Now all I need to do to ssh into the Ubuntu Server VM is:
+```
+❯ ssh ubuntu-vm
+```
+Nice.
+
 ## Gotchas / Lessons Learned
 I definately want to learn more about cloud-init and netplan and how that all works. I wonder how cloud-init is meant to work in a cloud deployment.
 
