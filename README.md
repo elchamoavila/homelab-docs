@@ -19,14 +19,17 @@ My goal is to learn as much as I can about systems administration.
 - [Proxmox Post-Install Config](./proxmox/02-post-install-config.md)
 - [Ubuntu Server VM Install](./proxmox/03-ubuntu-server-vm-install.md)
 - [SSH setup for Proxmox](./proxmox/04-ssh-setup-in-proxmox.md)
+- [Windows Server VM Install](./proxmox/05-windows-server-vm-install.md)
 ### Ubuntu Server VM
 - [Ubuntu VM Post-install Config and Setup](./ubuntu-server/01-ubuntu-vm-setup.md)
+### Windows Server VM
 ---
 
 ## Roadmap
 
 - [x] Set up Proxmox
-- [x] Set up Ubuntu server
+- [x] Set up Ubuntu Server
+- [x] Install Windows Server
 - [ ] Set up Windows Server
 - [ ] Set up Windows Client
 ---
@@ -38,4 +41,5 @@ My goal is to learn as much as I can about systems administration.
 | 2026-3-23 | Repo created, installed and configured Proxmox |
 | 2026-3-24 | Created new VM and installed Ubuntu Server |
 | 2026-4-3  | Setup SSH for Proxmox and Ubuntu VM, ssh hardened on both. Did post-install setup for Ubuntu VM |
+| 2026-4-7 | Installed Windows Server 2022 VM |
 
