@@ -168,3 +168,6 @@ As just mentioned I didn't know that ``apt install`` automatically enables and s
 I'm also really happy about this ssh config file. I kind of feel dumb for not knowing about that!
 
 I'll have to do this all again for the Debian VM, so it's nice to get some practice in this. I'll be sure to make that documentation more concise, unless something unexpected comes up.
+
+# Next Steps
+- [Windows Server WM Install](./05-windows-server-vm-install.md)

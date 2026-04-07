@@ -37,3 +37,5 @@ My goal is to learn as much as I can about systems administration.
 |-----------|--------------|
 | 2026-3-23 | Repo created, installed and configured Proxmox |
 | 2026-3-24 | Created new VM and installed Ubuntu Server |
+| 2026-4-3  | Setup SSH for Proxmox and Ubuntu VM, ssh hardened on both. Did post-install setup for Ubuntu VM |
+

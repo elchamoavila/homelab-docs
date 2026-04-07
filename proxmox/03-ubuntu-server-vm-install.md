@@ -9,7 +9,7 @@ The objective is to successfully set up the VM on Proxmox for an Ubuntu Server. 
 ## Steps
 
 ### 1. Upload Installation Media to Proxmox
-In the Proxmox web application, in Server View, I went to Datacenter > pve > local (pve), then in the side panel of the main window, went to ISO Images, and clicked on Download from URL. I for URL: I put `https://releases.ubuntu.com/24.04.4/ubuntu-24.04.4-live-server-amd64.iso`, then clicked on 'Query URL'. Proxmox correctly identified the file, and I downloaded the ISO to Proxmox. 
+In the Proxmox web application, in Server View, I went to Datacenter > pve > local (pve), then in the side panel of the main window, went to ISO Images, and clicked on Download from URL. For URL: I put `https://releases.ubuntu.com/24.04.4/ubuntu-24.04.4-live-server-amd64.iso`, then clicked on 'Query URL'. Proxmox correctly identified the file, and I downloaded the ISO to Proxmox. 
 
 The goal in the future is have that ISO live in a NAS instead of on the same drive Proxmox is on.
 
@@ -17,11 +17,11 @@ The goal in the future is have that ISO live in a NAS instead of on the same dri
 
 - On Proxmox, click on Create VM.
 
-- In the General Tab, I set the following; Node: pve, VM ID: 102, Name: vm-ubuntu-serve
+- In the General Tab, I set the following; Node: pve, VM ID: 102, Name: vm-ubuntu-server
 
 - I set the VM ID to 102 to match the IP address I want to give this VM; 192.168.1.2.
 
-- In the OS tab, I set the following: Storate:Local, and ISO image: the ubuntu server iso I just downloaded.
+- In the OS tab, I set the following: Storage:Local, and ISO image: the ubuntu server iso I just downloaded.
 
 - In the System tab, I changed nothing.
 
@@ -63,6 +63,7 @@ Thankfully, I can adjust this after I set up the VMs.
 ## Next Steps
 - [Ubuntu Post-Install Config](../ubuntu-server/01-ubuntu-vm-setup.md)
 - [Proxmox SSH setup](./04-ssh-setup-in-proxmox.md)
+- [Windows Server VM Install](./05-windows-server-vm-install.md)
 
 ## References
 - https://www.youtube.com/watch?v=lFzWDJcRsqo
