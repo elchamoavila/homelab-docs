@@ -22,6 +22,7 @@ My goal is to learn as much as I can about systems administration.
 - [Windows Server VM Install](./proxmox/05-windows-server-vm-install.md)
 ### Ubuntu Server VM
 - [Ubuntu VM Post-install Config and Setup](./ubuntu-server/01-ubuntu-vm-setup.md)
+- [Ubuntu VM DCHP Reservation Config](./ubuntu-server/02-ubuntu-vm-dhcp-config.md)
 ### Windows Server VM
 ---
 
