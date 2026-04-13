@@ -140,6 +140,10 @@ Nice.
 ## Gotchas / Lessons Learned
 I definately want to learn more about cloud-init and netplan and how that all works. I wonder how cloud-init is meant to work in a cloud deployment.
 
+## Next Steps
+
+[Ubuntu VM DCHP reservation Config](./02-ubuntu-vm-dhcp-config.md)
+
 ## References
 - https://www.youtube.com/watch?v=lFzWDJcRsqo 
 - https://pve.proxmox.com/wiki/Qemu-guest-agent
