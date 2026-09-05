@@ -24,7 +24,7 @@ My goal is to learn as much as I can about systems administration.
 - [Ubuntu VM Post-install Config and Setup](./ubuntu-server/01-ubuntu-vm-setup.md)
 - [Ubuntu VM DHCP Reservation Config](./ubuntu-server/02-ubuntu-vm-dhcp-config.md)
 ### FreeBSD VM
-- [FreeBSD Installation and DHCP Reservation](./freebsd-vm/01-installation-and-reservation)
+- [FreeBSD Installation and DHCP Reservation](./freebsd-vm/01-installation-and-reservation.md)
 ### Windows Server VM
 ---
 
