@@ -142,7 +142,7 @@ I definately want to learn more about cloud-init and netplan and how that all wo
 
 ## Next Steps
 
-[Ubuntu VM DCHP reservation Config](./02-ubuntu-vm-dhcp-config.md)
+[Ubuntu VM DCHP Reservation Config](./02-ubuntu-vm-dhcp-config.md)
 
 ## References
 - https://www.youtube.com/watch?v=lFzWDJcRsqo 

@@ -1,7 +1,7 @@
 # Proxmox Installation
 
 ## Overview
-I'm going to install proxmox on my ultra slim form factor dell desktop.
+I'm going to install Proxmox on my ultra slim form factor dell desktop.
 I already did before, but i'm going to do it again so I document every step.
 
 ## Prerequisites
