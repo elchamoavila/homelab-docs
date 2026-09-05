@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "freebsd-vm/01-installation-and-reservation.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-installation-and-reservation"
+              "title": "README"
             }
           }
         ]
@@ -209,6 +209,7 @@
   },
   "active": "9f414a648dff7043",
   "lastOpenFiles": [
+    "proxmox/04-ssh-setup-in-proxmox.md",
     "README.md",
     "freebsd-vm/01-installation-and-reservation.md",
     "proxmox/01-installation.md",
